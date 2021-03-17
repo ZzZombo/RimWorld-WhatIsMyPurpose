@@ -8,7 +8,7 @@
 		<li>1.2</li>
 	</supportedVersions>
 	<packageId>ZzZombo.WhatIsMyPurpose</packageId>
-	<description>Fork of "" by Uuugggg where any NPC's "purpose" is shown, not only of your faction's members. You can see your pawn's target, and click to move to it. Also, shows who is targeting the currently selected NPC: "whose target am I?".</description>
+	<description>Fork of "What Is My Purpose" by Uuugggg where any NPC's "purpose" is shown, not only of your faction's members. You can see your pawn's target, and click to move to it. Also, shows who is targeting the currently selected NPC: "whose target am I?".</description>
 	<url>https://steamcommunity.com/id/ZzZombo/myworkshopfiles/?appid=294100</url>
 	<modDependencies>
 		<li>
